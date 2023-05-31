@@ -22,6 +22,7 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/%C3%B6zg%C3%BCr-e-89622a205/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
